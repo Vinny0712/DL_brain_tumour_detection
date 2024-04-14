@@ -4,7 +4,19 @@ Project description:
 
 Early detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore.Our project aims to help medical practitioners speed up the classification of MRI scans for brain tumors.
 
+You'll need the following libraries for the provided imports:
 
+- NumPy for numerical operations: `import numpy as np`
+- Pandas for data manipulation and analysis: `import pandas as pd`
+- Matplotlib for visualization: `import matplotlib.pyplot as plt` and `from matplotlib import cm`
+- Torch and Torchvision for deep learning: `import torch` and `import torchvision`
+- Torch.utils.data for handling datasets: `from torch.utils.data import Dataset`
+- Torch.optim for optimization algorithms: `import torch.optim as optim`
+- Torchvision.transforms for data transformations: `from torchvision.transforms import ToTensor, Compose, Normalize`
+- Torchvision.datasets for accessing datasets: `from torchvision.datasets import MNIST`
+- Torch.nn.functional and Torch.nn for neural network operations: `import torch.nn.functional as F` and `import torch.nn as nn`
+- Math for mathematical operations: `from math import ceil`
+  
 link to weights: 
 
 DenseNet: https://drive.google.com/drive/folders/1SjDfoUmSJUFgIBRG02Atkv8_vnq0WVOs?usp=drive_link
@@ -29,3 +41,5 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 link to report: 
 https://docs.google.com/document/d/1WhZwx9Ngb4_aex9ah9Wu2sTVc3zfQ8Kkieg4d0xD0Vw/edit?usp=sharing
+
+

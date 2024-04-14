@@ -12,6 +12,9 @@ Alexnet_transfer_learning : https://sutdapac-my.sharepoint.com/:f:/g/personal/vi
 
 CNN weights : http://login2.gpucluster.sutd.edu.sg/hub/user-redirect/lab/tree/CNN_weights
 
+(unfortunately for AlexNet and CNN , we had difficulties moving it to one drive due to its large size - 12GB and 42 gB , thus it could only be accessed from the gpu cluster where we trained it - however if unable to access GPU cluster , the tester codes to prove reproducibility has been run already , we are sorry for that!)
+
+
 link to data:
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 

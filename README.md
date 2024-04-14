@@ -2,6 +2,8 @@
 
 link to weights: 
 
+ResNet: https://drive.google.com/drive/folders/15ylRamh0m1PQG_eX27bdEoyR-kNTL0GV?usp=drive_link
+
 EfficientNet: https://drive.google.com/drive/folders/1Ig_ces5s4Xcuezr2BU4TXhbuT94dy_OZ
 
 VGG: https://drive.google.com/drive/folders/1BGJUxurT9y4FvaI5r6EvPYDPZ76PYMGV

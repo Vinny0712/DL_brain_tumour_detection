@@ -1,5 +1,10 @@
 # DL_brain_tumour_detection
 
+Project description:
+
+Early detection and classification of brain tumors is an important research domain in the field of medical imaging and accordingly helps in selecting the most convenient treatment method to save patients life therefore.Our project aims to help medical practitioners speed up the classification of MRI scans for brain tumors.
+
+
 link to weights: 
 
 DenseNet: https://drive.google.com/drive/folders/1SjDfoUmSJUFgIBRG02Atkv8_vnq0WVOs?usp=drive_link
